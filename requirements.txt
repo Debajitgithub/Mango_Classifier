@@ -1,3 +1,4 @@
 streamlit
-tensorflow-cpu
+tensorflow==2.15.1   # proven wheel for Python 3.10
 pillow
+zipfile36
